@@ -71,7 +71,7 @@ Goal: Design a matrix multiply and activation engine compatible with RISC-V ISA 
 
 - Complete all 4 planned projects by Sept 2025  
 - Showcase each project with GitHub code, simulation outputs, and diagrams  
-- Explore part-time roles or internships in **FPGA**, **Embedded AI**, or **Neuromorphic Computing**
+
 
 ---
 
