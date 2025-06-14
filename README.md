@@ -22,6 +22,11 @@ Implemented and compared three estimation techniques for nonlinear dynamic syste
 🛠️ *MATLAB, Receding Horizon Method*  
 Simulated vaccine demand using inventory constraints and stochastic variation, optimized supply with expectation-based control.
 
+###  Adaptive Filter on FPGA 
+🛠️ *SystemVerilog, FPGA, MATLAB*  
+Goal: Implement LMS-based real-time adaptive filtering for noise cancellation.  
+Outcome: Will demonstrate dynamic coefficient updates in hardware.
+
 ---
 
 ## 🚧 Ongoing Projects (June–September 2025)
@@ -30,10 +35,6 @@ Simulated vaccine demand using inventory constraints and stochastic variation, o
 🛠️ *Multisim* | 🔍 *Analog Neuromorphic Circuits*  
 Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural transmission using analog components. Exploring bio-inspired signal transmission alternatives to digital neuron modeling.
 
-###  Adaptive Filter on FPGA *(Target: June 2025)*  
-🛠️ *SystemVerilog, Quartus, FPGA*  
-Goal: Implement LMS-based real-time adaptive filtering for noise cancellation.  
-Outcome: Will demonstrate dynamic coefficient updates in hardware.
 
 ###  Sensor Fusion with EKF on Microcontroller *(Target: July 2025)*  
 🛠️ *C++, Arduino/STM32, Kalman Filter*  
@@ -80,5 +81,5 @@ Goal: Design a matrix multiply and activation engine compatible with RISC-V ISA 
 **Email**: kruthika.yogeesh@gmail.com 
 **LinkedIn**: [www.linkedin.com/in/kruthika-yogeesh-gowda](https://www.linkedin.com/in/kruthika-yogeesh-gowda/)
 
-Let's connect if you're working on projects at the intersection of **hardware and ML**, or interested in **neuromorphic or biomedical systems**!
+
 
