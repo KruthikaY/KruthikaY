@@ -22,7 +22,7 @@ Implemented and compared three estimation techniques for nonlinear dynamic syste
 🛠️ *MATLAB, Receding Horizon Method*  
 Simulated vaccine demand using inventory constraints and stochastic variation, optimized supply with expectation-based control.
 
-###  Adaptive Filter on FPGA 
+###  Adaptive Filter on FPGA *(Target: June 2025)* 
 🛠️ *SystemVerilog, FPGA, MATLAB*  
 Goal: Implement LMS-based real-time adaptive filtering for noise cancellation.  
 Outcome: Will demonstrate dynamic coefficient updates in hardware.
