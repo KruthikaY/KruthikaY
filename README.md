@@ -40,19 +40,18 @@ Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural trans
 🛠 *SystemVerilog, VHDL, STM32, UART/SPI/I2C Protocols*  
 **Goal:** Implement high-speed communication protocols (SPI/I2C/UART) on FPGA and interface with STM32 MCU for real-time data exchange.
 
----
+
 
 ### Real-Time Sensor Fusion with FPGA-MCU Integration *(Target: August 2025)*
 🛠 *C++, STM32, SystemVerilog, Kalman Filter*  
 **Goal:** Fuse accelerometer and gyroscope data using Extended Kalman Filter (EKF) with FPGA co-processor acceleration for performance improvement.
 
----
+
 
 ### RISC-V Co-Processor for Hardware Acceleration *(Target: September 2025)*
 🛠 *SystemVerilog, VHDL, Xilinx Vivado*  
 **Goal:** Design a matrix multiply and activation engine compatible with RISC-V ISA to accelerate embedded workloads.
 
----
 
 
 ---
