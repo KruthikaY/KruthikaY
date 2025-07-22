@@ -36,17 +36,26 @@ Outcome: Will demonstrate dynamic coefficient updates in hardware.
 Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural transmission using analog components. Exploring bio-inspired signal transmission alternatives to digital neuron modeling.
 
 
-###  Sensor Fusion with EKF on Microcontroller *(Target: July 2025)*  
-🛠️ *C++, Arduino/STM32, Kalman Filter*  
-Goal: Fuse accelerometer and gyroscope data using EKF to estimate orientation in real time.
+## 🚧 Ongoing Projects (June–September 2025)
 
-###  ECG Signal Classification using ML *(Target: August 2025)*  
-🛠️ *Python, Keras, LSTM , Scikit-learn*  
-Goal: Classify ECG segments into normal and abnormal patterns using deep learning on biomedical signals.
+### High-Speed Digital Interface on FPGA *(Target: July 2025)*
+🛠 *SystemVerilog, VHDL, STM32, UART/SPI/I2C Protocols*  
+**Goal:** Implement high-speed communication protocols (SPI/I2C/UART) on FPGA and interface with STM32 MCU for real-time data exchange.
 
-###  RISC-V Co-Processor for ML Acceleration *(Target: September 2025)*  
-🛠️ *SystemVerilog, VHDL*  
-Goal: Design a matrix multiply and activation engine compatible with RISC-V ISA to accelerate embedded ML workloads.
+---
+
+### Real-Time Sensor Fusion with FPGA-MCU Integration *(Target: August 2025)*
+🛠 *C++, STM32, SystemVerilog, Kalman Filter*  
+**Goal:** Fuse accelerometer and gyroscope data using Extended Kalman Filter (EKF) with FPGA co-processor acceleration for performance improvement.
+
+---
+
+### RISC-V Co-Processor for Hardware Acceleration *(Target: September 2025)*
+🛠 *SystemVerilog, VHDL, Xilinx Vivado*  
+**Goal:** Design a matrix multiply and activation engine compatible with RISC-V ISA to accelerate embedded workloads.
+
+---
+
 
 ---
 
@@ -59,12 +68,6 @@ Goal: Design a matrix multiply and activation engine compatible with RISC-V ISA 
 - **Control & Estimation**: EKF, Particle Filter, Grid Filter  
 - **Mathematical Modeling**: Monte Carlo, Receding Horizon Control
 
-### In Progress (via Current Projects)  
-- **FPGA Applications**: Adaptive filtering, real-time signal processing  
-- **Microcontroller Programming**: C++ for embedded sensor fusion  
-- **ML & Biomedical**: ECG analysis, LSTM  
-- **Hardware-ML Integration**: ML co-processors for low-power tasks  
-- **Analog Circuits**: Bio-inspired signal modeling using RLC networks
 
 ---
 
