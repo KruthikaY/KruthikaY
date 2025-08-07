@@ -36,7 +36,7 @@ Outcome: Will demonstrate dynamic coefficient updates in hardware.
 Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural transmission using analog components. Exploring bio-inspired signal transmission alternatives to digital neuron modeling.
 
 
-### High-Speed Digital Interface on FPGA *(Target: July 2025)*
+### High-Speed Digital Interface on FPGA *(Target: August 2025)*
 🛠 *SystemVerilog, VHDL, STM32, UART/SPI/I2C Protocols*  
 **Goal:** Implement high-speed communication protocols (SPI/I2C/UART) on FPGA and interface with STM32 MCU for real-time data exchange.
 
