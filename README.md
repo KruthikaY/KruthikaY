@@ -35,20 +35,23 @@ Outcome: Will demonstrate dynamic coefficient updates in hardware.
 🛠️ *Multisim* | 🔍 *Analog Neuromorphic Circuits*  
 Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural transmission using analog components. Exploring bio-inspired signal transmission alternatives to digital neuron modeling.
 
+---
 
-### High-Speed Digital Interface on FPGA *(Target: August 2025)*
+## 🚧 Planned Projects (August –September 2025)
+
+### High-Speed Digital Interface on FPGA
 🛠 *SystemVerilog, VHDL, STM32, UART/SPI/I2C Protocols*  
 **Goal:** Implement high-speed communication protocols (SPI/I2C/UART) on FPGA and interface with STM32 MCU for real-time data exchange.
 
 
 
-### Real-Time Sensor Fusion with FPGA-MCU Integration *(Target: August 2025)*
+### Real-Time Sensor Fusion with FPGA-MCU Integration 
 🛠 *C++, STM32, SystemVerilog, Kalman Filter*  
 **Goal:** Fuse accelerometer and gyroscope data using Extended Kalman Filter (EKF) with FPGA co-processor acceleration for performance improvement.
 
 
 
-### RISC-V Co-Processor for Hardware Acceleration *(Target: September 2025)*
+### RISC-V Co-Processor for Hardware Acceleration
 🛠 *SystemVerilog, VHDL, Xilinx Vivado*  
 **Goal:** Design a matrix multiply and activation engine compatible with RISC-V ISA to accelerate embedded workloads.
 
