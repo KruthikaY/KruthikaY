@@ -22,7 +22,7 @@ Implemented and compared three estimation techniques for nonlinear dynamic syste
 🛠️ *MATLAB, Receding Horizon Method*  
 Simulated vaccine demand using inventory constraints and stochastic variation, optimized supply with expectation-based control.
 
-###  Adaptive Filter on FPGA *(Target: June 2025)* 
+###  Adaptive Filter on FPGA *(June 2025)* 
 🛠️ *SystemVerilog, FPGA, MATLAB*  
 Goal: Implement LMS-based real-time adaptive filtering for noise cancellation.  
 Outcome: Will demonstrate dynamic coefficient updates in hardware.
@@ -37,7 +37,7 @@ Designing RLC-based electrical circuits to replicate Hodgkin-Huxley neural trans
 
 ---
 
-## 🚧 Planned Projects (August –September 2025)
+##  Planned Projects (August –September 2025)
 
 ### High-Speed Digital Interface on FPGA
 🛠 *SystemVerilog, VHDL, STM32, UART/SPI/I2C Protocols*  
